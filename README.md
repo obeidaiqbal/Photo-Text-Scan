@@ -1,4 +1,5 @@
 # Photo-Text-Scan
+
 ### Overview
 
 - A template app for taking and displaying a photo
